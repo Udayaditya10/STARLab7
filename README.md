@@ -1,4 +1,2 @@
-# StarLab7 > README.md
-echo # StarLab7 > README.md
-echo # StarLab7
+# STARLab7
 This is my first GitHub project.
